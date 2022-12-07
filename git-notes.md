@@ -14,6 +14,7 @@ git <verb> --help
 
 ```shell
 cd </path-to-directory/>
+cd ~/ahead of current path/
 git init
 ```
 - This step will create a directory called `.git`. The directory is starting with DOT. which means, it's hidden 
