@@ -87,7 +87,7 @@ step2 - to check branch. ensure that u r on master branch. below command to list
 git branch -a
 step3 - if not in master branch, to checkout to master branch
 git checkout master
-step4 - 
+step4 - to create new branch and checkout to new branch
 
 
 
